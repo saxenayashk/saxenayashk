@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
-<h3 align="center">I am a passionate data analyst, coder and an enthusiast. I love working with hidden data. Am also a Computer Science geek and love to explore related technological stuff.</h3>
+<h3 align="center">I am a passionate data analyst, coder and an enthusiast. I love working with hidden data to extract meaningful insights. Am also a Computer Science geek and love to explore related technological stuff.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
