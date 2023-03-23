@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on [Crypto Market Analysis](https://github.com/Aum020/crypto-market-analysis)
 
-- 🌱 I’m currently learning **Docker**
-
 - 💬 Ask me about **Exploratory Data Analysis , Machine Learning and Statistical Computing**
 
 - 📫 How to reach me **yashsaxena341@gmail.com**
