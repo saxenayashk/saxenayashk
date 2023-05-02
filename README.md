@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/syash8627" target="blank"><img src="https://img.shields.io/twitter/follow/syash8627?logo=twitter&style=for-the-badge" alt="syash8627" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto Market Analysis](https://github.com/Aum020/crypto-market-analysis)
 
 - 💬 Ask me about **Exploratory Data Analysis , Machine Learning and Statistical Computing**
 
