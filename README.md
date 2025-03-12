@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/syash8627" target="blank"><img src="https://img.shields.io/twitter/follow/syash8627?logo=twitter&style=for-the-badge" alt="syash8627" /></a> </p>
 
 
-- 💬 Ask me about **Vue, React, Tailwind, PrimeVue, PrimeReact, SQL, PostgreSQL, and building sleek UIs with clean code.**
+- 💬 Ask me about **Vue, React, Tailwind, Prime and SQL**
 
 - 📫 How to reach me **syash8627@gmail.com**
 
