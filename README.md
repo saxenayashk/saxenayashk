@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
-<h3 align="center">I am a passionate data analyst, coder and an enthusiast. I love working with hidden data to extract meaningful insights. Am also a Computer Science geek and love to explore related technological stuff.</h3>
+<h3 align="center"Turning coffee into code and ideas into interfaces. 🚀💡"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://twitter.com/syash8627" target="blank"><img src="https://img.shields.io/twitter/follow/syash8627?logo=twitter&style=for-the-badge" alt="syash8627" /></a> </p>
 
 
-- 💬 Ask me about **Exploratory Data Analysis , Machine Learning and Statistical Computing**
+- 💬 Ask me about **Vue, React, Tailwind, PrimeVue, PrimeReact, SQL, PostgreSQL, and building sleek UIs with clean code.**
 
-- 📫 How to reach me **yashsaxena341@gmail.com**
+- 📫 How to reach me **syash8627@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
